@@ -1,0 +1,53 @@
+Int. No.
+
+By Council Member Kallos 
+
+A LOCAL LAW
+
+To amend the administrative code of the city of New York, in relation to free and open source software.
+
+Be it enacted by the Council as follows:
+
+Section 1. Declaration of legislative findings and intent. The Council hereby finds and declares that it is in the best interest of New York City and its agencies to purchase software with a free and open source license.  The cost of obtaining software for the city’s computer systems has become a significant expense to the city of New York.  The personnel costs of maintaining the software on city computers has also become a significant expense to the city of New York.  It is necessary for the functioning of the city that computer data owned by the city be permanently available to the city throughout its useful life.  To guarantee the succession and permanence of public data, it is necessary that the city’s accessibility to that data be independent of the goodwill of the city’s computer system suppliers and the conditions imposed by these suppliers.  It is in the public interest to ensure interoperability of computer systems through the use of software and products that promote open, platform-neutral standards.  It is also in the public interest that the city be free, to the greatest extent possible, of conditions imposed by parties outside the city’s control on how, and for how long, the city may use the software it has acquired.  Finally, it is not in the public interest and it is a violation of the fundamental right to privacy for the city to use software that, in addition to its stated function, also transmits data to, or allows control and modification of its systems by, parties outside of the city’s control.  
+The acquisition and widespread deployment of free and open source software can significantly reduce the city’s costs of obtaining and maintaining software:  Free and open source software guarantees that the encoding of data is not tied to a single provider; free and open source software enables interoperability through adherence to open, platform-neutral standards; free and open source software contains no restrictions on how, or for how long, it may be used; and since free and open source software fully discloses its internal operations, it can be audited, at any time and by anyone of the city’s choosing, for internal functions that are contrary to the public’s interests and rights.
+§2.  Title six of the administrative code of the city of New York is amended by adding a new chapter four to read as follows:
+CHAPTER 4
+SOFTWARE PURCHASING
+§6-401.  Definitions.  As used in this chapter: 
+a.  Definitions set forth in section 23-501 of the administrative code of the city of New York is incorporated by reference as if fully set forth herein.
+b.  The following terms shall have the following meanings:
+ “Agency” shall mean a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury. 
+	“City chief procurement officer” shall mean the person to whom the mayor has delegated authority to coordinate and oversee the procurement activity of mayoral agency staff, including the agency chief contracting officers and any offices that have oversight responsibility for procurement.
+“Civic Commons software” shall mean software purchased collaboratively with jurisdictions outside of the city of new york in accordance with section 403 and section 404 of this chapter.
+“Free software” means software that provides access to the source code and guarantees users the freedom to run, copy, distribute, study, change and improve the software through the four essential freedoms:
+(i) The freedom to run the program, for any purpose;
+(ii) The freedom to study how the program works, and change it so it does your computing as you wish. 
+(iii) The freedom to redistribute copies to help your neighbor; and
+(iv) The freedom to distribute copies of your modified versions to others
+“Free and open source software” means software that satisfies all the criteria set forth in the definitions of “free software” and “open source software” under this chapter.
+“Open source software” shall mean software that complies with the following criteria:
+(1) Free redistribution.  The license shall not restrict any party from selling or giving away the software as a component of an aggregate software distribution containing programs from several different sources.  The license shall not require a royalty or other fee for such sale.
+(2) Source code.  The program must include source code, and must allow distribution in source code as well as compiled form. Where some form of a product is not distributed with source code, there must be a well-publicized means of obtaining the source code for no more than a reasonable reproduction cost preferably, downloading via the internet without charge. The source code must be the preferred form in which a programmer would modify the program. Deliberately obfuscated source code is not allowed. Intermediate forms such as the output of a preprocessor or translator are not allowed.
+(3) Derived works.  The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
+(4) Integrity of the author's source code.  The license may restrict source-code from being distributed in modified form only if the license allows the distribution of "patch files" with the source code for the purpose of modifying the program at build time. The license must explicitly permit distribution of software built from modified source code. The license may require derived works to carry a different name or version number from the original software.
+(5) No discrimination against persons or groups.  The license must not discriminate against any person or group of persons.
+(6) No discrimination against fields of endeavor.  The license must not restrict anyone from making use of the program in a specific field of endeavor.
+(7) Distribution of license.  The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties.
+(8) License must not be specific to a product.  The rights attached to the program must not depend on the program's being part of a particular software distribution. If the program is extracted from that distribution and used or distributed within the terms of the program's license, all parties to whom the program is redistributed should have the same rights as those that are granted in conjunction with the original software distribution.
+(9) License must not restrict other software.  The license must not place restrictions on other software that is distributed along with the licensed software. For example, the license must not insist that all other programs distributed on the same medium must be open-source software.
+(10) License must be technology-neutral. No provision of the license may be predicated on any individual technology or style of interface.
+ “Proprietary software” means software that does not fulfill all of the guarantees provided by open source software.
+§6-402.  Free and open source software.  
+a.  Within one hundred eighty days of the effective date of the local law that added this section, the city chief procurement officer, in conjunction with the commissioner of the department of information technology and telecommunications,  shall develop a plan to minimize the city’s procurement of proprietary software.  Such plan shall include a detailed schedule with annual goals for the planned reduction of the purchase of proprietary software and increase in the purchase of free and open source software.   The city chief procurement officer shall publish such plan on the mayor’s office of contract services website.
+b.  To advance the goals of such plan, the city chief procurement officer, in conjunction with the commissioner of the department of information technology and telecommunications, shall: 
+(1) establish guidelines for agencies that will assist in increasing the purchase of free and open source software;	
+	(2) publish such guidelines on the mayor’s office of contract services website;
+(3) disseminate such guidelines to agencies and train agency contracting personnel on implementing such guidelines; and
+	(4) monitor agency implementation of such guidelines. 
+c.   Not later than October first of each year, the city chief procurement officer shall submit to the mayor and the speaker of the city council, and publish on the mayor’s office of contract services website, a report detailing the city’s efforts during the preceding fiscal year to implement such plan.  Such report shall include the total dollar value of software procured by agencies, disaggregated by open source software and proprietary software, and an analysis of estimated cost savings resulting from the purchase of open source software.
+§3.  This local law shall take effect 90 days after its enactment into law, provided, however, that city agencies, officers and employees, including but not limited to the city chief procurement officer, shall take such actions as are necessary for its implementation prior to such effective date.
+
+
+SKM
+LS #796
+5/22/14
