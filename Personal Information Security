@@ -1,0 +1,44 @@
+Int. No. 626
+ 
+By Council Members Kallos and Mendez (by request of the Manhattan Borough President)
+ 
+ 
+A Local Law to amend the administrative code of the city of New York, in relation to personal information security.
+ 
+ 
+Be it enacted by the Council as follows:
+ 
+Section 1. Title 10 of the administrative code of the city of New York is amended by adding a new chapter 9 to read as follows:
+ 
+CHAPTER 9 - PERSONAL INFORMATION SECURITY
+§10-901 Personal information security. a. As used in this chapter, "personal information" shall mean any information concerning an individual which, because of a name, number, symbol, mark or other identifier, can be used to identify that individual.
+b. Each agency that maintains a system of records containing personal information shall develop, implement and maintain a comprehensive security program that contains administrative, technical and physical safeguards for the protection of such personal information. Such comprehensive security program shall be consistent with this chapter and with applicable federal and state laws and regulations.
+c. Where not inconsistent with applicable federal and state laws and regulations, a comprehensive security program shall include:
+1. designating one or more employees to maintain the comprehensive information security program;
+2. identifying and assessing foreseeable internal and external risks to the security, confidentiality or integrity of electronic, paper or other records containing personal information;
+3. developing and implementing safeguards for limiting such risks, including conducting ongoing employee training, requiring employee compliance with policies and procedures, and creating a means for detecting and preventing security system failures;
+4. developing and implementing written security policies for employees and other relevant persons relating to the storage, access and transportation of records containing personal information outside of agency premises, and conducting periodic trainings for such persons with respect to such policies;
+5. imposing disciplinary measures for violations of the comprehensive information security program rules;
+6. preventing persons whose employment with the agency has been terminated from the agency from accessing records containing personal information;
+7. restrictions on physical access to records containing personal information, including the storage of such records and data in locked facilities, storage areas or containers;
+8. regular monitoring to ensure that the comprehensive information security program is operating in a manner calculated to prevent unauthorized access to and unauthorized use of personal information;
+9. periodic review of the comprehensive security program at least annually and whenever there is a material change in business practices that may implicate the security or integrity of records containing personal information in order to improve the effectiveness of such security program; and
+10. post-incident review following each incident involving a breach of security, and documenting such incident and the responsive actions taken in connection with such incident, including changes made, if any, to business practices relating to protection of personal information.
+d. Where not inconsistent with applicable federal and state laws and regulations, if an agency electronically stores or transmits records containing personal information, the comprehensive information security program of such agency shall include:
+1. secure user authentication protocols including control of user identification cards and other record access identifiers; a secure method of assigning and selecting passwords, or use of unique identifier technologies, such as biometrics or token devices; control of data security passwords to ensure that such passwords are kept in a location or format that does not compromise the security of the data they protect; restricting access to active users and active user accounts only; and blocking access for a user identification after multiple unsuccessful attempts to gain access using that user identification;
+2. secure access control measures that restrict access to records and files containing personal information to those who need such information to perform their job duties and to assign unique identifications and passwords, which are not vendor supplied default passwords, to each person with computer access, that are designed to maintain the integrity of the security of the access controls;
+3. encryption of all transmitted records and files containing personal information that will travel across public networks, and encryption of all data containing personal information to be transmitted wirelessly.
+4. encryption of all personal information stored on laptops or other portable devices;
+5. encryption of all personal information stored on removable media that is transported or stored by third-party service providers;
+6. monitoring of systems for unauthorized use of or access to personal information;
+7. for files containing personal information on a system that is connected to the Internet, there must be up-to-date firewall protection and operating system security patches, designed to maintain the integrity of personal information;
+8. up-to-date versions of system security agent software which must include malware protection and up-to-date patches and virus definitions, or a version of such software that can still be supported with up-to-date patches and virus definitions, and such software must be set to receive the most current security updates on a regular basis; and
+9. education and training of employees on the proper use of the applicable computer security system and the importance of personal information security.
+ 
+§2. This local law shall take effect one year after its enactment, except that the commissioner or director of each agency shall take such actions as are necessary for its implementation, including the promulgation of rules, prior to such effective date.
+ 
+ 
+ARP
+Int. 0664/2011
+LS# 1539
+07/22/14 04:20PM
