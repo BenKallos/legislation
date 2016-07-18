@@ -1,0 +1,65 @@
+Int. No. 574
+ 
+By Council Members Kallos, Gentile, Koo, Palma, Rosenthal, Mendez, Torres, Cabrera, Vallone, Cornegy, Constantinides, Espinal, Wills, Richards, Deutsch, Koslowitz, Eugene, Johnson, Greenfield, Mealy, Reynoso, Cohen, Williams, Levine, Treyger and Lancman
+ 
+A Local Law to amend the administrative code of the city of New York, in relation to requiring a universal mobile application to enable customers to electronically hail taxicabs and street hail livery vehicles.
+ 
+Be it enacted by the Council as follows:
+ 
+Section 1. Declaration of legislative findings and intent. The Council finds that improvements can be made to the process in which taxis and HAIL vehicles are hailed which will help passengers, drivers, and the environment, and improve pedestrian safety. One way to improve service for passengers and improve the working conditions of drivers is through the use of a universal e-hail application. Passengers would benefit from the improved ease of hailing a taxi or eligible HAIL vehicle and would be protected from unexpected increases in the fare, also known as "surge pricing."   
+The Council also finds that such a universal e-hail application would have a broader beneficial effect than just making it easier to hail a taxi or HAIL vehicle, but will also help further the Vision Zero goals of reducing pedestrian fatalities and injuries by requiring the use of technology that will reduce distractions to drivers, in addition to making the process for picking up a hail more orderly. The implementation of an e-hail system would also provide environmental benefits because drivers would not have to cruise as much to pick up their next passengers.   
+The Council further finds that a universal e-hail application would improve driver incomes because an e-hail application would make a larger pool of passengers available to drivers, so there is less time driving an empty vehicle.  Such an e-hail application would also allow the commission to improve taxi and HAIL vehicle service by providing it with information on when and where passengers use such vehicles and the commission can use such data from the universal e-hail application to route taxis and HAIL vehicles.  
+
+§ 2. Chapter 5 of title 19 of the administrative code of the city of New York is amended by adding a new section 19-544 to read as follows:
+§ 19-544 E-hail mobile application. a. Definitions.  For the purposes of this section, the following terms shall have the following meanings:
+      1. "Accessible vehicle" means any vehicle approved for use by the commission as a taxicab or HAIL vehicle that meets the specifications and requirements for accessible vehicles pursuant to the Americans with disabilities act of 1990, as amended, and  rules promulgated by the commission.
+      2. "Application program interface (API)" means a software intermediary that makes it possible for application programs to interact with each other and share data.
+3. "E-hail application" means a software program approved by the commission residing on a computer, smartphone, tablet, or other mobile device with wireless internet connectivity which performs one or more of the following functions: (1) allows a passenger to identify the location(s) of available taxicabs and eligible HAIL vehicles in a given area and allows a driver to identify the location of a passenger who is currently ready to travel; (2) allows a passenger to hail a taxicab or eligible HAIL vehicle via the electronic device;  (3) allows a driver to receive a hail request from such a passenger; and (4) allows customers to make electronic payments.
+4. "Payment Card Industry (PCI)-certified" means compliance with the policies and procedures developed by Visa, Master Card, Discover and American Express and any other relevant credit or debit card companies in order to optimize the security of credit, debit and cash card transactions.
+5. "Street hail livery technology system (L-PEP)" means an integrated system of hardware and software that complies with the technical requirements set forth in the rules of the city of New York regarding such system, and provides the following core services in HAIL vehicles: (1) credit, debit and prepaid card payment; (2) text messaging; (3) trip data collection and transmission; (4) passenger information monitor, screen, or other credit/debit card device; and (5) automatic vehicle location system and location services.
+6. "Taxicab technology system (T-PEP)" means an integrated system of hardware and
+software that complies with the technical requirements set forth in the rules of the city of New York regarding such system and provides the following core services to taxicabs: (1) credit, debit and prepaid card payment; (2) text messaging; (3) trip data collection and transmission; (4) data transmission by means of the passenger information monitor; and (5) automatic vehicle location system and location services.
+7. "Third-party e-hail application" means any e-hail application other than an e-hail application developed or caused to be developed by the commission.
+b. The commission shall develop or cause to be developed an e-hail application which shall enable customers to electronically hail taxicab or eligible HAIL vehicles, including the ability to electronically hail an accessible vehicle. Such e-hail application shall be the sole method to electronically hail an accessible vehicle. The T-PEP and L-PEP systems shall be the sole systems authorized by the commission for taxicabs and HAIL vehicles to receive electronic hails. Any application, provided it meets the following minimum criteria, shall be eligible for an e-hail license:
+1. There shall be no charge to a passenger or driver for the use of such e-hail application.
+2. The e-hail application shall only dispatch e-hails to HAIL vehicles within the geographic boundaries set by state law for HAIL vehicle pickups.
+3. The e-hail application shall allow passengers to provide comments to the commission regarding the ride, including but not limited to, compliments and complaints, as well as allow passengers to rate their drivers.
+4. The e-hail application shall display all available taxicabs and HAIL vehicles within a certain radius of the passenger to be determined by the commission and shall be capable of transmitting to the passenger the vehicle number and name of the driver of the first vehicle to accept the hail, the estimated time of arrival as close to real time as feasible, and the location of the vehicle accepting the hail.  
+5. All payments made through the e-hail application for fares shall be processed through a T-PEP or L-PEP system.
+6. The e-hail application shall allow passengers to electronically hail an accessible vehicle.
+7. The e-hail application shall be capable of allowing drivers to accept an e-hail while the vehicle is in motion with a single touch or with voice activation. The e-hail application must be locked while the vehicle is in motion.
+c. A taxicab or HAIL vehicle driver shall not be required to accept a passenger through the e-hail application provided that once such driver accepts a hail through the e-hail application, such driver must pick up the e-hail passenger. Any driver found in violation of this subdivision shall be subject to penalties pursuant to paragraph b of section 19-507 of this chapter.
+d. Upon accepting an e-hail through the e-hail application, a taxicab or eligible HAIL vehicle shall cause the roof light of such vehicle to indicate that such vehicle is not available for incoming passengers. Such vehicle cannot begin charging a fare until the passenger has been picked up.
+e. A taxicab or eligible HAIL vehicle shall only be permitted to charge the passenger picked up through the e-hail application the metered rates provided by law or rule.
+f. To use the e-hail application, a passenger must create and manage an account through the e-hail application, as well as on a website approved by the commission. Passengers shall have the option of entering payment information for credit or debit cards or other approved forms of electronic payment. The e-hail application and website shall be capable of offering users the option to save such payment information.
+g. The commission may ban passengers who it determines have misused the e-hail application.
+h. The commission, or an entity approved by the commission, shall maintain the e-hail application and website, including compiling data on its use. Such data shall include, but not be limited to, the number of passengers who have hailed a taxicab or HAIL vehicle through the application and the geographic area from which each e-hail originates.
+i. The commission shall advertise and promote the e-hail application for no less than 30 seconds during its allotted time for public service announcements on a T-PEP or L-PEP display from 90 days prior to the e-hail application going into service and until, at a minimum, one year after the e-hail application goes into service. The commission may adopt additional promotional methods.
+j. The commission shall provide training for all drivers applying for a taxicab driver's license or for-hire vehicle driver's license to drive a HAIL vehicle on the use of the e-hail application mandated under paragraph b of this section. The commission shall further provide training for such drivers as necessary, but at least every time such drivers' licenses are to be renewed.   
+k. Any tip or gratuity shall, in its entirety, be provided to the driver.
+l. The commission shall develop an API that allows third-party e-hail applications approved by the commission based on this section and rules of the commission to submit hail requests for fulfillment by taxicabs and eligible HAIL vehicles through the e-hail application. The API shall be reviewed by the commission, or a commission approved entity when necessary, but no less than once every three months, to update the API if the commissioner determines that such API is not meeting the requirements of third-party applications. The commission shall not adopt any rules regulating the dispatch practices used by such third-party e-hail applications, provided that such methodology does not otherwise violate any rules of the commission. Such third-party e-hail applications:
+1.  may charge a fee for their use;
+2. shall not influence a passenger attempting to e-hail a taxicab or eligible HAIL vehicle to use another class of for-hire vehicle;  
+3. shall meet the requirements of paragraphs b through f of this section, but shall be exempt from the requirements of sub-paragraphs (b)(1) and (b)(4) of this section; and
+4. shall be responsible for recruiting drivers and passengers, and marketing such applications.
+m. The API mandated under paragraph l of this section shall, at a minimum, be capable of the following:
+1. receiving vehicle location data from T-PEP and L-PEP and transmitting such information to approved third-party applications;
+2. receiving dispatch requests from commission approved third-party e-hail applications and forwarding requests to appropriate taxicabs and eligible HAIL vehicles;
+3.  accepting dispatch requests and forwarding an acceptance to the e-hail application; and
+4.  securely transmitting fare payment instructions from commission approved third-party e-hail applications to the T-PEP or L-PEP system.
+n. The commission shall create a privacy policy for the use of the API mandated under paragraph k of this section.  This privacy policy shall, at a minimum:
+1. prohibit third-party applications from obtaining information about taxicab drivers, other than their name, commission drivers' license numbers and vehicle numbers; and
+2. prohibit drivers from obtaining personally identifiable information about their passengers, provided however, a passenger may be given the option of waiving such privacy protection.
+o. The following integration shall be required of T-PEP and L-PEP systems via the API mandated under paragraph l of this section; however third-party e-hail application developers shall not be required to use the following information:
+1. driver/medallion login information;
+2. itemized fare information; and
+3. e-payments via a PCI-certified processing in order for such T-PEP and L-PEP systems to be capable of accepting from the application payment information necessary to capture the trip record and to provide a printed receipt.
+p. The commission may by rule establish additional functions of the e-hail application other than those required by and consistent with this section.
+
+§ 3. This local law shall take effect 90 days after its enactment, except that the commission shall take all actions necessary for its implementation, including the promulgation of rules, prior to such effective date.
+ 
+ 
+ 
+AV
+LS 1918
+12/1/14
